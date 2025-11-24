@@ -2,7 +2,7 @@
 
 > 🚀 **一键部署的 AI 代理网关** | 🎯 **OpenAI 兼容 API** | ⚡ **高性能流式响应**
 
-![版本](https://img.shields.io/badge/版本-1.0.1-FFBF00) ![协议](https://img.shields.io/badge/协议-Apache%202.0-blue) ![部署](https://img.shields.io/badge/部署-Cloudflare%20Worker-FF7139)
+![版本](https://img.shields.io/badge/版本-1.0.1-FFBF00) ![部署](https://img.shields.io/badge/部署-Cloudflare%20Worker-FF7139)
 
 ## 📖 目录
 - [✨ 项目简介](#-项目简介)
